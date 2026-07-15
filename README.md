@@ -1,4 +1,4 @@
-# DevOps Batch #7
+# DevOps homework
 
 ## Session 1 Homework
 
