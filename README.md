@@ -1,8 +1,11 @@
-# DevOps homework
+# DevOps Homework
+
 
 ## Session 1 Homework
 
+
 This repository documents my practical homework for Session 1.
+
 
 ### Completed activities
 
